@@ -1,12 +1,44 @@
-# React + Vite
+## 🚀 Job Application Tracker (https://job-tracker-ashen.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **Job Application Tracker** is a simple web application designed to help users manage and organize their job search.  
+It provides a structured way to record job applications, track their statuses across different stages of the hiring process, and keep all relevant details in one place.
 
-Currently, two official plugins are available:
+This project was built to strengthen frontend development skills, especially in DOM manipulation, state management using JavaScript, and data persistence via local storage — all without relying on any backend.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add new job applications with details like company, position, date applied, and current status
+- Edit or delete application entries
+- Track application status (e.g., Applied, Interviewing, Rejected, Offer)
+- Data is saved in browser local storage for persistent access
+- Clean and minimal interface using only HTML, CSS, and JavaScript
+
+ ## 🛠️ Tech Stack
+
+  -React ->	Frontend framework
+  
+  -JavaScript ->	Logic, interactivity
+  
+  -CSS ->	Custom styling
+  
+  -LocalStorage ->	Data persistence in-browser
+  
+  -Git + GitHub ->	Version control and hosting
+
+## 📚 What I Learned
+
+  - How to build a project with React from scratch
+  
+  - Creating and managing state with React Hooks (useState)
+  
+  - Passing data and functions between components using props
+  
+  - Handling form inputs and user interactions
+  
+  - Implementing localStorage for persistent frontend data
+  
+  - Structuring components and managing project folders
+  
+  - Writing clear commits and managing a project with Git and GitHub
